@@ -1,0 +1,3 @@
+Aluno(a): Rogério Nota: 2.5
+Aluno(a): Napoleão Nota: 8.7
+Aluno(a): Jhennifer Lopez Nota: 9.87
